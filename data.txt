@@ -1,3 +1,4 @@
 Name: Louise
 Age: 34
-Favourote Color: Autumn
+Favorite Color: Autumn
+Second Favorite Color: Sunset
